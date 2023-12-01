@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## APP en NextJS manejo de Usuarios 
 
-## Getting Started
+* npx create-next-app nextjs-piloto
+  
+#### Dependencias
+![image](https://github.com/wlopera/nextjs-piloto/assets/7141537/54d39ab8-b148-46df-a4d6-7217a37ee22c)
 
-First, run the development server:
+#### Links
+-  https://www.youtube.com/watch?v=_SPoSMmN3ZU
+-  https://nextjs.org/docs
+-  https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns
+-  https://jsonplaceholder.typicode.com/
+-  https://tailwindcss.com/docs/guides/nextjs
+-  https://reqres.in/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Código:
+![image](https://github.com/wlopera/nextjs-piloto/assets/7141537/d26b302a-ec4e-4772-b044-6449faef99d5)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+#### Para poder ver imagenes:
+![image](https://github.com/wlopera/nextjs-piloto/assets/7141537/aeaf8da1-ae16-479c-a7ac-ce3cb73cfbc9)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+#### Estilos globales
+![image](https://github.com/wlopera/nextjs-piloto/assets/7141537/74c93a38-c571-4295-8851-2184f0682a41)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+#### Salidas:
+![image](https://github.com/wlopera/nextjs-piloto/assets/7141537/19d56543-5f01-4684-ac7e-9b25f36f1d33)
+![image](https://github.com/wlopera/nextjs-piloto/assets/7141537/3164f726-0367-42de-9415-ffdeb8e42d69)
+![image](https://github.com/wlopera/nextjs-piloto/assets/7141537/eb565a38-3664-418a-8aba-0b9919ebb410)
